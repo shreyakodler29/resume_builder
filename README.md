@@ -33,7 +33,5 @@ npx serve .
 ## Deploy
 
 Static site — deploy directly to [Vercel](https://vercel.com) with zero configuration (Framework Preset: "Other").
-
 ---
-
 Built for the Digital Heroes developer trial task.
